@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [working on my new portfolio, so it's live soon](working on my new portfolio, so it's live soon)
+- 👨‍💻 All of my projects are available in my new portfolio that I am working on now, so it will be live soon..
 
 - 📫 How to reach me **mahmoudhanouneh@gmail.com**
 
