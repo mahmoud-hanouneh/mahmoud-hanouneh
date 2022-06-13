@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hanouneh</h1>
-<h3 align="center">A telecommunications engineer interested in the web development domain. I finished doing my bachelor's degree in Aug 2021. Now, I am working on improving my skills in that field, specifically on React.js framework.</h3>
+<h3 align="center">A telecommunications engineer interested in the web development domain. I finished doing my bachelor's degree in Aug 2021. Now, I am working on improving my skills in this field, specifically in React.js framework.</h3>
 
 - 🌱 I’m currently learning **React.js**
 
