@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Mahmoud</h1>
-<h3 align="center">I am a telecommunications engineer. Interested in the web development domain. I finished doing my bachelor's degree in Aug 2021. Now, I am working on improving my skills in this field, specifically in React.js framework.</h3>
+<h1 align="center">Hello 👋, I'm Mahmoud | Passionate Software Developer living in Germany & Master's Student </h1>
+<h3 align="center">I am a telecommunications engineer. Interested in the web development domain and finished  my bachelor's degree in Aug 2021. Currently, I am a Computer Science M.Sc. Student at Würzburg Univeristy in Germany. </h3>
 
 - 📫 How to reach me **mahmoudhanouneh@gmail.com**
 
