@@ -1,8 +1,10 @@
-<h1 align="center">Hello 👋, I'm Mahmoud | Passionate Software Developer living in Germany & Master's Student </h1>
+<h1 align="center">Hello 👋, I'm Mahmoud | Passionate Software Developer living in Germany 👨‍💻 | Master's Student 👨‍🎓 </h1>
 <h3 align="center">I am a telecommunications engineer. Interested in the web development domain and finished  my bachelor's degree in Aug 2021. Currently, I am a Computer Science M.Sc. Student at Würzburg Univeristy in Germany. </h3>
 
 - 📫 How to reach me **mahmoudhanouneh@gmail.com**
-
+- 📫 Edu Email **mahmoud.hanouneh@stud-mail.uni-wuerzburg.de**
+- 📫 Company Email **mahmoud.hanouneh@blue-tech.ae**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud-hanouneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-hanouneh" height="30" width="40" /></a>
