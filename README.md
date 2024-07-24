@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mahmoud | Passionate Software Developer living in Germany 👨‍💻 | Master's Student 👨‍🎓 </h1>
-<h3 align="center">I am a telecommunications engineer. Interested in the web development domain and finished  my bachelor's degree in Aug 2021. Currently, I am a Computer Science M.Sc. Student at Würzburg Univeristy in Germany. </h3>
+<h3 align="center">I am a telecommunications engineer. Interested in the web development domain and finished  my bachelor's degree in Aug 2021. Currently, I am a Computer Science M.Sc. Student at Würzburg Univeristy in Germany. THIS GitHub ACCOUNT HAS NOT BEEN UPDATED IN OVER TWO YEARS</h3>
 
 - 📫 How to reach me **mahmoudhanouneh@gmail.com**
 - 📫 Edu Email **mahmoud.hanouneh@stud-mail.uni-wuerzburg.de**
